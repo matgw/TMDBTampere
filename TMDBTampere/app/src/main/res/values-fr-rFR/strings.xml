@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TMDBTampere</string>
+
+    <string name="navigation_drawer_open">Ouvrir navigation drawer</string>
+    <string name="navigation_drawer_close">Fermer navigation drawer</string>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="nav_movies">Films</string>
+    <string name="nav_tvshows">Séries TV</string>
+    <string name="nav_favorites">Favoris</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="settings_language_title">Langage</string>
+    <string name="settings_imagequality_title">Qualité Image</string>
+    <string name="settings_about">A propos</string>
+    <string name="title_activity_movie_single">MovieSingleActivity</string>
+</resources>
